@@ -1,0 +1,8 @@
+# 一般的に無視するファイル
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.ssh/
+.cache/
+.local/
